@@ -1,5 +1,5 @@
 # Restaurant Simulation
-The RestaurantSimulation.py script simulates a restaurant environment where multiple customers interact, each with unique food preferences.
+A simulation of a restaurant environment where multiple customers interact, each with unique food preferences.
 The program leverages multithreading to represent customers and their activities concurrently, ensuring efficient handling of customer requests and preferences.
 This simulation is designed to model realistic restaurant behavior, such as customer choice variability, waiting for orders, and dealing with limited food availability.
 
